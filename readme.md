@@ -40,5 +40,12 @@
     --- otras cosas que son importante para mi rama
 
     $ Segundo remoto
+
+
+    Para eliminar un remoto local
+    $ git branch -d nombre_de_la_rama
+
+    Para eliminarla del remoto es con
+    $ git push origin :nombre_de_la_rama
 ```
 
