@@ -14,6 +14,8 @@
 
     $ Primera rama develop
         $ hacer un git pull origin master
+        $ git merge develop
+        
     $ Segunda rama staging
     $ Eliminando rama staging
     $ merge
