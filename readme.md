@@ -32,7 +32,7 @@
     
 
 
-    $ git remote -v
+    $ git remote -v  
 
 
     $ git stash
