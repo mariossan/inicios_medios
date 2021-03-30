@@ -13,6 +13,7 @@
     $ git log  === https://coderwall.com/p/euwpig/a-better-git-log
 
     $ Primera rama develop
+        $ hacer un git pull origin master
     $ Segunda rama staging
     $ Eliminando rama staging
     $ merge
