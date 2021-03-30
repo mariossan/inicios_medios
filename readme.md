@@ -27,7 +27,10 @@
     $ git remote -v
 
     $ git stash
+
+
     
+
     $ Segundo remoto
 ```
 
