@@ -22,8 +22,12 @@
         Luego hacer un pull request
     $ Eliminando rama staging
     $ merge
+        $ git merge master
+
     $ git remote -v
+
     $ git stash
+    
     $ Segundo remoto
 ```
 
