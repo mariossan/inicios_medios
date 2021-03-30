@@ -14,9 +14,12 @@
 
     $ Primera rama develop
         $ hacer un git pull origin master
+        Jalar los cambios de master
         $ git merge develop
         
     $ Segunda rama staging
+        Para la rama de staginng hacer un pull de master
+        Luego hacer un pull request
     $ Eliminando rama staging
     $ merge
     $ git remote -v
