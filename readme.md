@@ -31,6 +31,14 @@
 
     
 
+
+    $ git remote -v
+
+
+    $ git stash
+
+    --- otras cosas que son importante para mi rama
+
     $ Segundo remoto
 ```
 
